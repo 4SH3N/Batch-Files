@@ -31,3 +31,5 @@ Trace IP shows the location of the IP
 and Find and Trace combines Trace IP and Packet Route Tracer, it shows a hostname's IP and tracks it down
 
 The mp4 downloader downloads a youtube video (not tested on other sites) and saves it in .mp4
+
+no_anime.bat keeps you away from bad influence of anime.
