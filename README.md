@@ -33,3 +33,5 @@ and Find and Trace combines Trace IP and Packet Route Tracer, it shows a hostnam
 The mp4 downloader downloads a youtube video (not tested on other sites) and saves it in .mp4
 
 no_anime.bat keeps you away from bad influence of anime.
+
+no_anime_ui.bat does the same thing, however ui version has an awesome user-friendly user interface
