@@ -35,3 +35,5 @@ The mp4 downloader downloads a youtube video (not tested on other sites) and sav
 no_anime.bat keeps you away from bad influence of anime.
 
 no_anime_ui.bat does the same thing, however ui version has an awesome user-friendly user interface
+
+IADE (by ashen) turns off internet connection using ipconfig /release and it can also use ipconfig /renew to turn internet back on
